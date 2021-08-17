@@ -15,4 +15,17 @@ In this assignment I've created a CLI App which consists of 6 quiz questions.
 * It also displays the highest score at the end.
 Used CHALK library to give beautiful & colorful CLI experience.
 
-Want to play it? Here is the [app link](https://replit.com/@pinki-choudhary/level0-or-cli-aboutme-quiz-app?embed=1&output=1), Have fun!
+Want to play it? Here is the [K-pop Band Quiz](https://replit.com/@pinki-choudhary/level0-or-cli-aboutme-quiz-app?embed=1&output=1), Have fun!
+
+### mark2 Assignment | DO YOU KNOW PINKI? Quiz - A CLI App
+
+**Path in the repo** - _mark2-assignment/about-me-quiz-app_
+
+In this assignment I've created a CLI App which consists of 6 quiz questions.
+* It takes user name as input & then starts the quiz.
+* It displays the user's current score.
+* It displays the selected answer & whether it's correct or not.
+* It also displays the highest score at the end.
+Used CHALK library to give beautiful & colorful CLI experience.
+
+Want to play it? Here is the [DO YOU KNOW PINKI? quiz](https://replit.com/@pinki-choudhary/level0-or-cli-about-me-quiz-app?embed=1&output=1), Have fun!
