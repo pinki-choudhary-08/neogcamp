@@ -4,7 +4,7 @@ This repository is created for learning purpose
 
 Here you will find the work that I've been doing for getting into NeoG Camp 2022 levelOne. I will be adding here the weekly assignments to complete my mark15 portfolio
 
-### mark1 Assignment | Create a CLI App
+### mark1 Assignment | Let's Play K-Pop Band Quiz - A CLI App
 
 **Path in the repo** - _mark1-assignment/kpop-band-cli-quiz-app_
 
